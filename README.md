@@ -27,5 +27,6 @@ Para usar o Pomodoro Timer, basta clonar ou baixar este repositório e abrir o a
 Iniciar Temporizador: Inicia a contagem regressiva de 25 minutos.
 Parar Temporizador: Pausa o temporizador. Você pode retomar a contagem clicando novamente em iniciar.
 Reiniciar Temporizador: Reinicia o temporizador, voltando para os 25 minutos iniciais.
-Contribuições
+
+## Contribuições
 Contribuições para aprimorar este simples Pomodoro Timer são sempre bem-vindas. Se você tem ideias ou melhorias, sinta-se à vontade para fazer um fork do repositório e abrir um Pull Request com suas mudanças.
